@@ -18,6 +18,6 @@ appveyor = { repository = "saschagrunert/path", branch = "master", service = "gi
 [dependencies]
 fnv = "1"
 linked-hash-map = "0"
-log = "0"
+log = "0.3.4"
 mowl = "1"
 time = "0"
